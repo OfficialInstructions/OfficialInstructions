@@ -1,4 +1,24 @@
-### Hi there 👋
+Official Changelogs
+
+BALANCE
+
+Witch
+Anger rate has increased by 100%.
+Health increased from 1450 to 1550.
+
+Adjusted Horde spawns around the number of players in the server.
+
+**PRETTY NEW STUFF**
+
+Added Shift + E, allows teammates to create spot markers visible only to their team.
+Paths too different from Vanilla marked with beams.
+Heavy Rain - Fences in Sugarmill_A.
+No Mercy - New ambulance in the Subway.
+
+R.A’S FEATURES FIX
+
+Jockey loves us again.
+
 
 <!--
 **OfficialInstructions/OfficialInstructions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
